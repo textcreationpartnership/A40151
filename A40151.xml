@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A controversie which hath been betwixt the Quakers, Protestants and Papists, above this twelve years, concerning the Church</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40151</idno>
+            <idno type="STC">Wing F1777</idno>
+            <idno type="STC">ESTC R15837</idno>
+            <idno type="EEBO-CITATION">13031558</idno>
+            <idno type="OCLC">ocm 13031558</idno>
+            <idno type="VID">96749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 738:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A controversie which hath been betwixt the Quakers, Protestants and Papists, above this twelve years, concerning the Church</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 15: G.F.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:96749:1"/>
+            <pb facs="tcp:96749:1" rendition="simple:additions"/>
+            <head>A Controverſie</head>
+            <head type="sub">which hath been betwixt the Quakers Protestants and Pa<g ref="char:EOLhyphen"/>pists, above this twelve years, Concerning the Church.</head>
+            <head type="sub">Prot. and Pap.</head>
+            <p>THe Proteſtants and Papiſts ſay their Steeple houſe is the Church to the Quakers, and ſay to the Quakers, what are you wiſer then your fore-fathers? your fore fathers called it a Church, and owned it to be a Church, and gave it the Tytle of a Church, a Company of Silly people Say they, yea would be wiſer then all your fore fathers, Miniſters and prieſts, Clergy and Pope that have called it a Church theſe many hundred years.</p>
+            <p>
+               <hi>Qua. Anſw.</hi> We do grant that the Papiſts and Pro<g ref="char:EOLhyphen"/>teſtants have called it a Church, with the Prieſts and Clergy and learned men, and if that be theirs and their fore fathers wiſdome to call it a Church; we are wiſer then thoſe their fore fathers that ſaid ſo, for we are come to the wiſdome of our fore-fathers the Apoſtles, who ſaid <hi>Chriſt ſhed</hi> his <hi>blood for his Church,</hi> and is this the wiſ<g ref="char:EOLhyphen"/>dome of you and your fore-fathers, that Chriſt ſhed his blood for a Steeple houſe? It is the wiſdome of our fore-fathers that Chriſt ſhed his blood for the people: And ſo the People are the Church, and is it the wiſdome of your fore-fathers that Chriſt came to purchaſe a Steeple houſe with his blood, the Apoſtle ſaid he purchaſed the people with his blood, the People were the Church and are ye no wiſer then your fore-fathers that ſaid the Steeple houſe was the Church, and that Chriſt pur<g ref="char:EOLhyphen"/>chaſed it with his blood? and the Apoſtle ſaid <hi>that Chriſt came to ſanctifie, cleanſe purifie</hi> and <hi>w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh his Church.</hi> And is this the wiſdome of your fore-fathers that Chriſt came
+<pb facs="tcp:96749:2"/>
+               <pb facs="tcp:96749:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:96749:3"/>to cleanſe, ſanctifie and purifie the Steeple-houſe; which the Apoſtles ſaid was the People and not an old houſe made with mens hands? Chriſt ſaith <hi>upon this Rock will I build my Church,</hi> Papiſts ſay it is upon <hi>Peter</hi> that Chriſt would build his Church: What would he ſet a Steeple houſe on top of <hi>Peter?</hi> The Church was built upon that which fleſh and blood had not revealed to <hi>Peter.</hi> But our Father which is in heaven, and Chriſt ſayed <hi>Mat.</hi> 18. and 19. <hi>If thy Brother treſpaſs againſt thee, if he will not hear, thee and them, then tell it to the Church,</hi> and what is this the wiſdom of your fore-fathers that they mu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t tell it to the Steeple houſes, that can neither hear not ſee, hath this been the wiſdome of your Clergy and fore-fathers and learned men? he muſt tell it to the Church which is the People, and if he neglect to hear the Church, let him become a heathen man; and what can the Steeple houſe ſpeak, is this your fore fathers wiſdome? It is the People that hath the Title of Church, which he neglecteth to hear: In <hi>Acts</hi> the 2. and 47. <hi>The Lord added to his Church daily ſuch as ſhould be ſaved,</hi> and what was this adding to a Steeple houſe, was this your fore-fathers wiſdome, your learned men? he added to the believers who were the Church, not a Steeple houſe <hi>Act.</hi> 5.11. <hi>Great fear came on all the Church:</hi> Is this your fore-fathers wiſdome, that great fear came on the Steeple-houſe? No, it was the People that was the Church fear came upon, that have the title of the Church.</p>
+            <p>
+               <hi>Acts</hi> the 8. and 1. <hi>Great perſecution was againſt the Church,</hi> what great perſecution againſt the Steeple houſe is this your learned mens wiſdome? It was the People that was perſecuted and not the Steeple houſe.</p>
+            <p>
+               <hi>Acts</hi> the 11. and 26. Where <hi>they aſsembled themſelves together with the Church,</hi> what is this your fore-fathers
+<pb n="3" facs="tcp:96749:3"/>wiſdome that the Steeple-houſe could aſſemble with the Elders? Nay it is the People that aſſembled with the Apoſtles and Elders.</p>
+            <p>
+               <hi>Acts</hi> the 14. and 23. <hi>They ordained Elders in every Church,</hi> that is they ordained Elders in every Congrega<g ref="char:EOLhyphen"/>tion, he does not ſay they ordeyned Elders in every Steeple-houſe.</p>
+            <p>
+               <hi>And when they came together and gathered the Church together, then they declared what God had done for them:</hi> what is this the wiſdome of your fore-fathers that they gathered the Steeple houſes together, and rehears'd to the Steeple houſe what God had done for them? nay this was before the Steeple houſe was, it was the People the Apoſtles gathered together which had the title of a Church and not an old houſe.</p>
+            <p>
+               <hi>And the Apoſtles were brought on their way by the Church</hi> as they paſſed their journey Acts the 15. and 3. what is this the wiſdome of your learned men and fore-fathers that the Steeple houſe could bring the Apoſtles on their way? No, it was the People had the title of a Church who brought the Apoſtles on their Journey, for the Steeple houſe cannot go. <hi>It pleaſed the Apostles and Elders with the whole Church to ſend choſen men</hi> &amp;c. Is this the wiſdom of your fore-fathers that this whole Church with the Apoſtles and Elders is a Steeple houſe? Nay it was the People that were the Church, the whole People.</p>
+            <p>Acts. 18.22. <hi>When the Apoſtles had landed in Ceſarea and gon up and ſaluted the Church:</hi> What was it the wiſdom of your fore-fathers that he went and ſaluted a Steeple houſe? Nay it was the People that he ſaluted and gave the title of a Church to.</p>
+            <pb n="4" facs="tcp:96749:4"/>
+            <p> Rom. 16.5, Paul ſaith <hi>greet me to the Church that is in thy houſe:</hi> ſo heere you may ſee the Church was in the houſe; and that it was the People that was in the houſe and what is this the wiſdome of your fore-fathers, that the Apoſtle bid them greet a Steeplehouſe. Cor. 1 and the 4. The Apoſtle ſaid I <hi>teach in every Church,</hi> that was in every Congregation, he doth not ſay every Steeple houſe.</p>
+            <p>Cor, 14. and 4. <hi>He that propheſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th ed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fieth the Church.</hi> Is this the wiſdom of your Clergy and fore fathers, that he edifie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Steeple houſe? and are you no wiſer then they? this propheſie was among the People which edified them, who had the title of Church.</p>
+            <p>
+               <hi>In the Church</hi> (the Apoſtle ſaith) I <hi>had rather ſpeak five words with my underſtanding, then</hi> ten thouſand <hi>in an un<g ref="char:EOLhyphen"/>known tongue;</hi> and this was in a Congregation of People who were called the Church.</p>
+            <p>
+               <hi>Seek</hi> (ſaith the Apoſtle) <hi>that you may excell to the edifying of the Church:</hi> What is this the wiſdome of your Fathers that the Steeple houſe ſhould be edified? No it was the People that was to be edified who were the Church.</p>
+            <p>And the Apoſtle ſaith, <hi>when the whole Church comes together to one place and all ſpeak with tongues</hi> &amp;c. Is this the wiſdome of your fore-fathers that a Steeple houſe ſhould gather together and ſpeak with tongues, and an unbeliever ſhould come into a Steeple houſe and think the Steeple houſe was mad? This was the People that was the Church and were gathered together and ſpoke with tongues.</p>
+            <p>The Apoſtle faith the <hi>Spirit of the prophets is ſubject to the Prophets, and God is not the author of confuſion but of peace, as in all the Churches of the Saints.</hi> This was in all the congregations of the Saints, he does not ſay in
+<pb n="5" facs="tcp:96749:4"/>all the Steeple houſes. The Church is <hi>the pillar and ground of truth,</hi> and truth were before Steeple houſes: And is this the wiſdome of your fore fathers that the Steeple<g ref="char:EOLhyphen"/>houſe is the pillar and ground of truth? the Church is the body of Chriſt which he is the head of.</p>
+            <p>
+               <q>The Apoſtle ſays the Churches of Aſia ſalute you.</q> Is this the wiſdom of your fore-fathers to ſay the Steeple-houſes ſalutes people? No it is the people of Aſia which have the title of Church, that Chriſt is head of doth ſalute the Brethren. And the Church which is in their houſe 1 <hi>Cor.</hi> 16.19. This contradicts you and your Fathers, for if the Church were in their houſe it was not the Steeple houſe, but the People met in their houſe, who had the title of Church.</p>
+            <p>
+               <hi>Epheſ.</hi> 1.22. <q>Chriſt is the head over all things to the Church,</q> which is his body, what is this the wiſdom of your fore-fathers? is the Steeple-houſe Chriſt body? No it is the People.</p>
+            <p>
+               <hi>Ephe.</hi> 3.10. <q>The manifold wiſdome of God might be known by the Church.</q> And what is this your fore-fathers wiſdom that the manifold wiſdom of God ſhould be known by the Steeple houſe?</p>
+            <p>
+               <hi>Epheſ.</hi> the 5. <q>the Church is ſubject to Chriſt.</q> And is this your fore fathers wiſdom to ſay it is the Steeple-houſe? No it is the People that is ſubject to Chriſt not an old houſe.</p>
+            <p>
+               <q>Chriſt loved his church and gave himſelf for his church,</q> what did Chriſt love the Steeple-houſe and gave himſelf for it? No it was for the People.</p>
+            <p>
+               <q>That Chriſt might preſent to himſelfe a glorious Church, without ſpot or wrinkle, holy without blemiſh,</q> and what is all this put to the Steeple-houſe by the wiſdom of your fore fathers? what doth Chriſt preſent the Steeple-houſe
+<pb n="6" facs="tcp:96749:5"/>without ſpot or blemiſh or wrinckle.</p>
+            <p>
+               <q>The Lord cheriſhes his Church,</q> what are you wiſer then your fore-fathers? is it a Steep'e-houſe he che<g ref="char:EOLhyphen"/>riſheth.</p>
+            <p>
+               <hi>Col.</hi> 1.18. <q>Chriſt is the head of the body the Church.</q> And what is he head of the body of your Steeple-houſe? Nay this church which is the body is the People and not the Steeple-houſe. <hi>Col.</hi> 4.15. <q>Salute the Bre<g ref="char:EOLhyphen"/>thren of Laodicea and Nymphas and the Church in his houſe;</q> Mark here again the church was in his houſe which was the People, and the Steeple-houſe was not the church, neither was to be ſaluted.</p>
+            <p>
+               <hi>Theſ.</hi> 1.1. 2 <hi>Theſ.</hi> 1. <q>Paul and Silvanus and Timo<g ref="char:EOLhyphen"/>theus unto the church of Theſſalonica, which is in God the Father of our Lord Jeſus Chriſt.</q> And what is this the wiſdom of your fore-fathers, are the Steeple-houſes in God the Father of Chriſt? No it is the People and children of God which be in him, which have the title of church.</p>
+            <p>Philemon 2. <q>To the Church in thy houſe,</q> Mark here againe it was in Philemons houſe, and not his house nor the Steeple-houſe, it was the People.</p>
+            <p>Heb. 12.23. <q>To the Generall Aſſembly and Church of the firſt borne which are written in heaven.</q> Is this the wiſdom of your fore-fathers to ſay the Steeple-houſe is the firſtborne, the generall Aſſemble written in heaven? Nay theſe were the Saints born of God the Aſſembly of them written in heaven, who had this title of the Church.</p>
+            <p>1 Peter 5 13 <q>The Church, which is at Babylon elect<g ref="char:EOLhyphen"/>ed together, ſalute you.</q> Is a ſteeple houſe elected together to ſalute the Saints? is this the wiſdome of your fore-fathers it is not the wiſdome of our fore-fathers the A<g ref="char:EOLhyphen"/>poſtles, for the Elect are the Saints.</p>
+            <pb n="7" facs="tcp:96749:5"/>
+            <p> Ioh. 3.9. <q>I wrote unto the Church &amp;.</q> What did Iohn write unto a Steeple houſe? nay it was the People, it was the Saints.</p>
+            <p>Acts the 8 and 38 <q>the Church that was in the Wil<g ref="char:EOLhyphen"/>derneſs,</q> what was it, the Steeple-houſe that was in the Wilderneſs? no it was the People that was in the Wilder<g ref="char:EOLhyphen"/>neſs the Aſſembly of Gods People.</p>
+            <p>Acts the 8. <q>Now there were certaine Prophets in the Church at Antioch:</q> That was, the Prophets was in the Congregation, which was the People.</p>
+            <p>1 Cor. 6.4. <q>who are the leaſt eſteemed to be ſett up in the Church to Iudge of outward matters,</q> this was in the aſſemblys of the righteous who had the tytle of a Church before a Steeple-houſe was.</p>
+            <p>1 Cor. 11.18. <q>When yee come together in the Church &amp;c.</q> This your fore-fathers might think was coming together in the Steeple-houſe, nay, this was be<g ref="char:EOLhyphen"/>fore your Steeple houſe was hallowed by the Pope, coming together was the People in the Congrega<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Cor. 12.28. <q>God hath ſet in the Church Apoſtles and Teachers and Paſtors &amp;c.</q> That was in the Aſſem<g ref="char:EOLhyphen"/>blyes of the Righteous, which was the People which was before the hallowed Steeple-houſe was.</p>
+            <p>Col. 4.16. <q>The Epiſtle was cauſed to be read in the Church,</q> ſo that was among the Aſſembly of the Saints, which was before Steeple houſes were.</p>
+            <p>Ephe. 3.2. <q>Unto God be glory in the Church by Chriſt Jeſus throughout all Ages, world without end;</q> The Steeple-houſes were not in all ages, but it was the People that were in all ages, which had the tytle of the Church.</p>
+            <p>Acts the 8. and the 3. <q>Saul made hayock of the
+<pb n="8" facs="tcp:96749:6"/>Church,</q> what was it the Steeple-houſe Saul made havock on? is this the wiſdome of your ſore fathers?</p>
+            <p>Acts the 11.22. <q>Tydings came to the Eares of the Church at Jeruſalem,</q> what hath your Steeple-houſe Eares which you call your Church? are you no wiſer then your fore-fathers yet? Tidings came to the Eares of the People, of the Saints which were titled the Church.</p>
+            <p>Acts the 12. 1. <q>Herod the King vexed certaine of the Church,</q>this was not certaine of the Steeple-houſes but certain of the Saints.</p>
+            <p>
+               <q>And Prayers was made without ceaſing of the Church,</q> this was not prayers made of the Steeple-houſes without ceaſing, but of the Saints which is the Church.</p>
+            <p>
+               <q>The Apoſtles was brought on their way by the Church,</q> Acts the 15. and the 3. That is, they were brought on their way by the Saints, and not by the Steeple<g ref="char:EOLhyphen"/>houſes.</p>
+            <p>
+               <q>And Paul called the Elders of the Church of Ephe<g ref="char:EOLhyphen"/>ſus, not the elders of the Steeple houſe, but the Elders of the Saints.</q>Acts 20.17.</p>
+            <p>Phebee a ſervant of the Church not ſervant of a Steeple<g ref="char:EOLhyphen"/>houſe but ſervant of Saints, who was before Conſecrated Steeplehouſes were.</p>
+            <p>Paul ſaith <q>Gaius mine hoſt and the whole Church Salutes you,</q> this was not the whole Steeple houſe that did ſalute, is this your fore-fathers wiſdome? but this was the whole Saints, which had the Title of a Church.</p>
+            <p>Cor. 1.14. <q>That you may excell to the edifying of the Church,</q> this was not to excell to edifie a Steeple<g ref="char:EOLhyphen"/>houſe but the People is called a church.</p>
+            <p>1. Tim. 3.5. Paul ſaith to Timothy <q>how that
+<pb n="9" facs="tcp:96749:6"/>he ſhould take care of the Church,</q> what is this your fore-fathers wiſdome that <hi>Paul</hi> ſaid that <hi>Timothy</hi> ſhould take care of a Steeple houſe? No it was of the People.</p>
+            <p>
+               <hi>Heb.</hi> 1.12. Chriſt ſaid <q>he would ſing praiſes in the midſt of his Church.</q> That was in the midſt of the People and not in the midſt of a Steeple-houſe.</p>
+            <p>
+               <hi>James</hi> the 5. and 14. <q>Let them call for the Elders of the Church &amp;c.</q> that was for the Elders of the Saints.</p>
+            <p>Diotrephes <q>which loved to have the preheminence did cast ſome out of the Church</q> which was rep<seg type="space"> </seg>roved, that was not out of the Steeple houſe, for it was before they were, but it was out of the Aſſemblies of the Saints <hi>Jo.</hi> 3. <hi>Ep.</hi> 10.</p>
+            <p>
+               <hi>Rev.</hi> 2.1.8.11.18. <q>unto the Angell of the Church of <hi>Epheſus</hi> write, unto the Angel of the Church of <hi>Smyrna</hi> write, and unto the Angel of the Church of <hi>Pergamos</hi> write, unto the Angel of the Church of <hi>Thy<g ref="char:EOLunhyphen"/>atira</hi> write,</q> what were theſe Angels of Steeple-houſes, which your fore-fathers call Churches? No they were the Saints and People of <hi>Epheſus</hi> and <hi>Smyrna</hi> &amp;c.</p>
+            <p>
+               <hi>Rev.</hi> 3. <q>unto the Angel of the Church of <hi>Sardis,</hi> to the Angel of the Church of <hi>Philadelphia,</hi> and to the Angel of the Church of <hi>Laodicea,</hi>
+               </q> what were theſe alſo Angels of Steeple houſes, which your fore-fathers call Churches? No they were Angels of a Church of People.</p>
+            <p>
+               <hi>Acts</hi> the 20.28. <q>the Apoſtles ſaith take heed to your ſelves and to the flock, which the Holy Ghoſt hath made you overſeers to feed the Church of God, which he hath purchaſed with his own blood,</q> are you no wiſer then your fore-fathers the Papiſts, that ſay the Steeple<g ref="char:EOLhyphen"/>houſe is the Church? and is this the Steeple-houſe that they are to feed? For the Apoſtle ſays they were to feed the Church of God; and is it not the wiſdome of your
+<pb n="10" facs="tcp:96749:7"/>fore fathers that ſay the Steeple houſe is the Church? And it was not the Steeple-houſe they were to feed, but the People which were the flock of God, Chriſt pur<g ref="char:EOLhyphen"/>chaſed the People with his own blood, not the Steeple-houſe. 2 <hi>Cor.</hi> 1. where <hi>Paul</hi> writes, <q>to the Church of God at Corinth;</q> he doth not write to the Steeple-houſes (which you call Churches) at Corinth but it was to the People.</p>
+            <p>The Apoſtle ſayes <q>give no offence to the Church of God, deſpiſe not the Church of God,</q> what was the wiſdom of your fore fathers that they were not to give any offence to a Steeple-houſe nor deſpiſe a Steeple houſe? Nay it was the People that they were to give no offence to, nor to deſpiſe.</p>
+            <p>The Apoſtle <hi>Paul</hi> ſaid <q>he once perſecuted the Church of God,</q> what was it an old houſe he perſecuted? No it was the People of God called the Church that he perſecuted 1 <hi>Cor.</hi> 15.9. and in the Galathians he ſays the ſame.</p>
+            <p>
+               <hi>Acts</hi> the 15.31. <q>The Churches had reſt in all <hi>Judea</hi> and <hi>Galilea</hi> and were edified and walked in the fear of God and comfort of the Holy Ghoſt</q> what was it the Steeple-houſes that walked in the fear of God and the comfort of the Holy Ghoſt? And was it the Steeple-houſe was edified and had reſt? No it was the People of God. <q>Paul went through <hi>Syria</hi> and <hi>Cilicia</hi> confirming the Churches,</q> theſe was not the Steeple-houſes that he confirmed, but the People of God.</p>
+            <p>
+               <hi>Acts.</hi> 16.5. <q>The Churches were eſtabliſhed in the faith;</q> theſe were the People of God, that were eſtabliſhed in the Faith and not the Steeple-houſes.</p>
+            <pb n="11" facs="tcp:96749:7"/>
+            <p> Rom. 16. <q>The Churches of the Gentiles gave thanks;</q> and is this the wiſdome of your fore fathers? can the Steeple houſe give thanks? no it was the Saints.</p>
+            <p>
+               <q>The Churches of Chriſt ſalute you,</q> theſe are not the Steeple-houſes ſalutes you but the Saints.</p>
+            <p>1 Cor. 7.17. <q>And ſo ordained I in all the Churches,</q> that was in all the Aſſemblies of the Saints and before your Steeple houſes were hallowed and called Churches.</p>
+            <p>1 Cor. 11.16. <q>No ſuch cuſtome is in the Church of God</q> ſaith the Apoſtle, that was not in the Steeple-houſes, but in the Aſſemblies of the righteous.</p>
+            <p>1 Cor. 16.16. <q>I have given order to all the Churches,</q> he doth not ſay he has given order to all the Steeple-houſes, which you call Churches by the wis<g ref="char:EOLhyphen"/>dome of your fore-fathers, but not from the Apoſtles, for this order was to the Saints, who had the title of Church.</p>
+            <p>2 Cor. 8.1. <q>The grace of God beſtowed on the Churches of Macedonia,</q> this grace of God was not beſtowed upon the Popes conſecrated Steeple-houſes, but upon the People, which were before they were that are called Churches.</p>
+            <p>
+               <q>Whoſe praiſe in the Goſpel throughout all the Churches, who was choſen of all the Churches,</q> meaning Titus, he was not choſen of all the Steeple-houſes which you and your fore-fathers call Churches, but this was the People that had choſen Titus whoſe praiſe was in the Goſpel throughout all the Churches, and Titus was a Meſſenger of the Churches, he was not a Meſſenger of the Steeple-houſes that you call Churches, but a Meſſen<g ref="char:EOLhyphen"/>ger of the Churches before Steeple houſes were. Before the Churches they were "to ſhew the proof of their
+<pb n="12" facs="tcp:96749:8"/>Love, that was before the Aſſembly of the righteous not before the Steeple houſes.</p>
+            <p>Paul ſaid <q>upon him was the daily care of all the Churches;</q> that was not of a company of houſes which are Steeple-houſes, but it was the Saints which are called Churches.</p>
+            <p>2 Cor. 12. <q>Wherein you were not inferiour to other Churches;</q> that is to other congregations, not to other Steeple-houſes.</p>
+            <p>Paul writes <q>to the Churches of Galatia</q> 1 Gal. 2. that was to the Saints and congregation, and not to an old houſe a Steeple-houſe.</p>
+            <p>Paul ſaith in the ſame Chap. <q>I was not known by face to the Churches of Judea.</q> Is this the wiſdome of your fore-fathers to ſay the Steeple-houſe is the Church, for can the Steeple-houſe know faces?</p>
+            <p>1 Thes. 2 Cha. 14. <q>for ye brethren became followers of the Church,</q> of God that was followers of the con<g ref="char:EOLhyphen"/>gregation of the Saints, and not followers of the Steeple-houſes, for the Steeple-houſe cannot go.</p>
+            <p>1. Thes. 2, Paul ſaith <q>we our ſelves glory in you, in the Churches of God;</q> ſo the Churches were the Aſſemblies of the Saints. For the Apoſtle did not glory in men nor in houſes as the Apoſtate Chriſtians have done, neither did they hallow houſes as them that have conſecrated houſes and called them Churches, have done, and given the title to houſes which belongs to People,</p>
+            <p>Rev. 1.4.11.20. <q>The ſeven Churches of Aſia are ſeven Candleſticks,</q> and what is the wiſdome of you and your fore-fathers to call the Steeple houſes which the Pope hath conſecrated Candleſticks? Nay, this was the People of Aſia the ſeven congregations, yea they are called golden Candleſticks, and the Steeple-houſes are
+<pb n="13" facs="tcp:96749:8"/>not golden Candleſticks, but this Title was given to the People of Aſia who were golden Candleſticks,</p>
+            <p>Rev. 2.7. <q>for he that hath an eare let him heare what the Spirit ſaith to the Church,</q> this was to the People, for the Steeple-houſes cannot heare, for they have no eares which you and your fore-fathers call churches, and finds fault with the Quakers that will not give your houſe the Saintes Title. And all the Churches ſhall know "<q>that I am he that ſearcheth all hearts and tryes the reines</q> and this is the Congregation of the People of God, for the Steeple-houſe which you and your fore fathers call Churches cannot know that God ſearches the hearts and tryes the reines but it is the People muſt know this.</p>
+            <p>Rev, 22.16. <q>I Jeſus ſend mine Angels to teſtify theſe things unto you in the Churches,</q> this was to the Congregations of his People, and he did not ſend them to the Steeple-houſes which you call Churches, for that title belongs to the Saints, for the Church is fleſh of his fleſh and bone of his bone, and the Steeple-houſe is not fleſh and bone: for it is his People that are. Chriſts <q>Church is a Spituall houſe-hold made of living ſtones,</q> but ſo is not the Steeple-houſe: it is not living ſtones nor a Spirituall houſe-hold offering up Spirituall ſacrifices, and the Church is Chriſts Spouſe, the Steeple-houſe is not Chriſts Spouſe: the Church is Chriſts <q>Bride and and his Wife,</q> but the Steeple-houſe is not Chriſts Bride nor his Wife, but his People. The Bride ſaith come which is the Church; but the Steeple houſe cannot ſay come, it cannot ſpeak no more then <hi>Baals</hi> God. <q>The Church which is the woman ſhe fled into the Wilderneſs and was there fed of God 1260 dayes: Then the witneſs propheſied in ſackloth and aſhes 1260 dayes:</q> Then the <hi>Beaſt</hi> got up <q>having the Dragons power</q> (and the whore the falſe Church)
+<pb n="14" facs="tcp:96749:9"/>
+               <q>and he was to continue 42. Moneths 1260 dayes</q> this time did he ſet up a wooden and ſtone houſe, and called it a Church when the true Church was gon to the wilderneſs, and ſo came up the wood and ſtone Croſs 300 years after Chriſt, and then was ſet up inſtead of the <hi>fine linnen and white,</hi> which is the Saints garment, the righteouſneſs of Chriſt, then did they ſet up the Surplice. And again after the judgment of the <hi>great whore</hi> ſhould come and the <hi>beaſt</hi> the <hi>Dragon</hi> and <hi>falſe prophet</hi> ſhould be taken, and caſt alive into the lake of fire, and the <hi>everlaſting Goſpel</hi> ſhould be preached again to all <hi>Kindreds, tongues and People,</hi> and the true Church the <hi>Bride</hi> ſhould prepare her ſelf and make her ſelf ready for her husband, and the Man child which was caught up to God ſhould come down again <hi>to rule all Nations with a rod of Iron,</hi> and the <hi>Marriage of the Lamb</hi> ſhould be known, and now the marriage of the Lamb is come Chriſt and his Wife which is the true Church, which he is head of: and fleſh of his fleſh and bone of his bone, who reigneth over the falſe Church, ſo the true Church, the title of Church belongs to her, ſhe cannot give her title away to a houſe made with mens hands, the true Church cannot give an old Steeple houſe the title of Church, nor worſhip, who ſees over it and is come to the Church worſhip which belongs to her ſelfe and the wiſdome that was amongſt the Apoſtles: ſo cannot give a houſe made with mens hands the title of the fleſh and bones and body of Chriſt, which is the Church no more then they can give the title to bread and wine, and ſay that is Chriſt and his body, no more then the true Prophets could give the title of God to Jeſebels baal, ſo you muſt never look for us more to give that title to Chriſts body and wife which is fleſh of his fleſh and bone of his bone to an old houſe, for Chriſt's Church
+<pb n="15" facs="tcp:96749:9"/>were the Temples of God and his body is ſet above all thoſe Temples or Churches which are made with mens hands, as it was in the Apoſtles dayes, ſo Gods work is ſet above mans work.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT</head>
+            <p>YOur Steeple-houſes you call Churches when there is no People in them, this is as much as to ſay that the Steeple-houſe is the People, ſeeing the People is the Church; ſo whether People be in or out you call a houſe of Wood, Lime and Stone a Church, which you never read neither <hi>Jews</hi> nor <hi>Heathen</hi> did ſo, for a Church ſignifies a Congregation of People, you know: And all the perſecutions ever ſince the Papiſts ſet them up both amongſt Papiſts and Proteſtants hath been the greateſt part of it for not going to the Steeple-houſes, which you call Churches, which are the works of mens hands; which never did the Apoſtles nor Chriſt perſecute any for not coming to their Aſſemblies which was the Church, and not a houſe. For what Laws have been made, and Fines ſince the Apoſtles days, and ſet upon People for not coming to that houſe you have ſet up which you call a Chu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, which People could not give a houſe the title which belongs to themſelves: And what perſecution has been, and Stocking, and Priſoning, and Shed<g ref="char:EOLhyphen"/>ding of their blood that have come to declare againſt thoſe houſes, and the teachers made of men, and teſtifying <hi>that all ſhould b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:96749:10"/>taught of God,</hi> and the title Church: belongs not to the houſe made with mens hands but to the People, and the other ground is as holy as that ground, for the Earth is the Lords and the fulneſs thereof, and ſo all is made holy by him, and all that he made was good &amp; bleſt, as you may read in Geneſis, and ſo one place not holyer then another.</p>
+            <p>And do you not give the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me worſhip to the houſe of wood and ſtone which you call your Church, in putting off your hatts? Yea, and when you go through it do not you commonly go bare headed all the way through it, though there be no body in it, and what do you more to them that are in it.</p>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:96749:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
